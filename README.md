@@ -4,12 +4,12 @@
 
 ### WeatherPY Instructions
 
-    * Create Plots to Showcase the Relationship Between Weather Variables and Latitude
+   * Create Plots to Showcase the Relationship Between Weather Variables and Latitude
         * Create a scatter plot to showcase the relationship between Latitude vs. Temperature 
         * Create a scatter plot to showcase the relationship between Latitude vs. Humidity 
         * Create a scatter plot to showcase the relationship between Latitude vs. Cloudiness 
         * Create a scatter plot to showcase the relationship between Latitude vs. Wind Speed 
-    * Compute Linear Regression for Each Relationship
+   * Compute Linear Regression for Each Relationship
         * Linear regression scatter plot for Northern Hemisphere: Temperature (C) vs. Latitude
         * Linear regression scatter plot for Southern Hemisphere: Temperature (C) vs. Latitude 
         * Linear regression scatter plot for Northern Hemisphere: Humidity (%) vs. Latitude 
@@ -20,10 +20,10 @@
         * Linear regression scatter plot for Southern Hemisphere: Wind Speed (m/s) vs. Latitude
 
 ### VacationPY Instructions
-    * Create a map that displays a point for every city in the city_data_df DataFrame (5 points)
-    * Narrow down the city_data_df DataFrame to find your ideal weather condition (5 points)
-    * For each city in the hotel_df DataFrame, use the Geoapify API to find the first hotel located within 10,000 metres of your coordinates (10 points)
-    * Add the hotel name and the country as additional information in the hover message for each city in the map. (10 points)
+   * Create a map that displays a point for every city in the city_data_df DataFrame 
+   * Narrow down the city_data_df DataFrame to find your ideal weather condition 
+   * For each city in the hotel_df DataFrame, use the Geoapify API to find the first hotel located within 10,000 metres of your coordinates 
+   * Add the hotel name and the country as additional information in the hover message for each city in the map. 
 
 ### Purpose
 
@@ -41,7 +41,7 @@ I am utilizing Python-API and Jupyter Notebook to analyze data from apis in orde
 
 ### Jupyter Notebook
 
-####Weather Py
+#### Weather Py
 ![1](WeatherPy/Images/Weatherpy/1.png)
 ![2](WeatherPy/Images/Weatherpy/2.png)
 ![3](WeatherPy/Images/Weatherpy/3.png)
@@ -62,7 +62,7 @@ I am utilizing Python-API and Jupyter Notebook to analyze data from apis in orde
 ![18](WeatherPy/Images/Weatherpy/18.png)
 ![19](WeatherPy/Images/Weatherpy/19.png)
 
-####Vacation Py
+#### Vacation Py
 ![1](WeatherPy/Images/Vacationpy/1.png)
 ![2](WeatherPy/Images/Vacationpy/2.png)
 ![3](WeatherPy/Images/Vacationpy/3.png)
